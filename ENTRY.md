@@ -1,3 +1,3 @@
-Works on my machine.
-Production says otherwise —
-the cloud holds a grudge.
+The bug was in prod
+for six months. No one noticed.
+The tests all passed too.
