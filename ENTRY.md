@@ -1,3 +1,3 @@
-Cursor blinks at three
-one stray comma hides somewhere
-and the tests still pass.
+Works on my machine.
+Production says otherwise —
+the cloud holds a grudge.
